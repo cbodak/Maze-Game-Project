@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Treasure
+  - HP+
+  - GatePad
+  - Treasure2
+  - Treasure3
+  - OrangeDoor
+  - BlueDoor
+  - RedDoor
+  - falseGate
+  - Lava
+  - EnemyRange
+  - EnemyRange2
+  - EnemyRange3
+  - EnemyRange4
+  - Boss
+  - Guard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
